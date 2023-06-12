@@ -7,7 +7,14 @@
 
 ![Json File 2](https://github.com/senrepo/DeviceDataProcess/blob/main/Files/DeviceDataFoo2.json)
 
-##Test Results
+## Tech Stack Details
+    .NET Core 6.0 Class Libarary
+    Nunit
+    Moq
+    Microsoft Visual Studio Community 2022 (64-bit)
+    Nuget
+
+## Test Results
 ![Test Results (unit & integration)](https://github.com/senrepo/DeviceDataProcess/blob/main/Files/TestResults.PNG)
 
 ![Integration Tests Output Files](https://github.com/senrepo/DeviceDataProcess/blob/main/Files/JsonOutputFiles.PNG)
