@@ -19,7 +19,7 @@
 
 ![Integration Tests Output Files](https://github.com/senrepo/DeviceDataProcess/blob/main/Files/JsonOutputFiles.PNG)
 
-## Oputput Json
+## Output Json
 
  ```json
      [
